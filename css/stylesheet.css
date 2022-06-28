@@ -51,7 +51,7 @@ h3:before, h3:after{
 }
 
 .container {
-  width: 1170px;
+  /*width: 1170px;*/
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -129,7 +129,7 @@ header {
   margin: 0 auto;
   text-align: center;
   /*background-image: url("https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/jquery/advanced/first_view.jpg");*/
-  background-image: url("how-to-compare-products.webp");
+  background-image: url("../img/how-to-compare-products.webp");
   background-size: cover;
 }
 
